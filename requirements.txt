@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+python-dotenv
+alembic
+passlib[bcrypt]
+python-jose[cryptography]
+pydantic
+pandas
+numpy
+scikit-learn
+prophet
